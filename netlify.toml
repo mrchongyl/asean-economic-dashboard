@@ -3,6 +3,26 @@
   publish = "dist"
 
 [[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/api/:splat"
+  from = "/api/gdp-per-capita"
+  to = "/.netlify/functions/gdp-per-capita"
+  status = 200
+
+[[redirects]]
+  from = "/api/credit-card-usage"
+  to = "/.netlify/functions/credit-card-usage"
+  status = 200
+
+[[redirects]]
+  from = "/api/inflation"
+  to = "/.netlify/functions/inflation"
+  status = 200
+
+[[redirects]]
+  from = "/api/cpi"
+  to = "/.netlify/functions/cpi"
+  status = 200
+
+[[redirects]]
+  from = "/api/mobile-internet-banking"
+  to = "/.netlify/functions/mobile-internet-banking"
   status = 200
