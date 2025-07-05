@@ -2,7 +2,7 @@
 
 <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/da6f190e-7a45-48e5-9140-1f02361194b7/deploy-status">
 
-A modern, Apple-inspired dashboard for visualizing ASEAN's economic data from the World Bank API. This project features visualization with interactive charts and tables for economics data.
+A modern, clean dashboard for visualizing ASEAN's economic data from the World Bank API. This project features visualization with interactive charts and tables for economics data.
 
 ## Features & Accomplishments
 
@@ -20,7 +20,7 @@ A modern, Apple-inspired dashboard for visualizing ASEAN's economic data from th
 - CSV export functionality
 - Time range filtering
 - Summary statistics and regression analysis
-- Implemented responsive UI with Tailwind CSS and Apple-inspired design
+- Implemented responsive UI with Tailwind CSS
 - Created reusable components for charts, tables, and navigation
 - Added comprehensive error handling and loading states
 
@@ -41,7 +41,7 @@ A modern, Apple-inspired dashboard for visualizing ASEAN's economic data from th
 - **Frontend:** React, TypeScript, Tailwind CSS, Chart.js
 - **Backend:** Netlify Serverless Functions (previously Flask)
 - **Data fetching:** Axios, React Query
-- **UI Components:** Tailwind CSS styled in Apple-inspired design
+- **UI Components:** Tailwind CSS styled in minimalist design
 - **Build Tools:** Vite, ESLint, PostCSS
 - **Deployment:** Netlify with continuous deployment
 - **Statistics:** Simple Statistics, Regression.js
